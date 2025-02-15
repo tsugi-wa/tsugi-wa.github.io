@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "44ca1937e0620e34",
+    "id": "c7f2bb05f0cb61d5",
     "type": "split",
     "children": [
       {
-        "id": "6b199c542b4e065c",
+        "id": "aed04d3e294b94f0",
         "type": "tabs",
         "children": [
           {
-            "id": "2012adb3585614a1",
+            "id": "92f3ecaac6599bf1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "38f4f52c375c6a78",
+    "id": "c317decd37c024a8",
     "type": "split",
     "children": [
       {
-        "id": "193e30a715bd5828",
+        "id": "4b66238a8f21be44",
         "type": "tabs",
         "children": [
           {
-            "id": "84636c2d642f8b2c",
+            "id": "d44d8192dc56647b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "4367e1d47886da21",
+            "id": "01abc67d8b087e29",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "f2fe9fc2412c7375",
+            "id": "bcb0657349698f5a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "e28620b5bcceb988",
+    "id": "55801d569ba8bb71",
     "type": "split",
     "children": [
       {
-        "id": "b4d588d846c6e642",
+        "id": "cdcd9b8595a16716",
         "type": "tabs",
         "children": [
           {
-            "id": "1f138d898b8d6fb7",
+            "id": "9a4fd1a53445dec4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "8e4c5bfdad58495c",
+            "id": "c035a03936a0ad3c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "eb658352ccdc81f1",
+            "id": "d099a913618ed353",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "54da2a475e9dd1a8",
+            "id": "97ee9ae31f96c945",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -158,10 +158,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2012adb3585614a1",
-  "lastOpenFiles": []
+  "active": "92f3ecaac6599bf1",
+  "lastOpenFiles": [
+    "source/content/New Text Document.txt",
+    "README.md",
+    "LICENSE",
+    "source/content/source/content/3 - Literature Notes/Courses/CS 174C/Lecture 9 (Feb 5).md",
+    "source/content/source/content/3 - Literature Notes/Courses/CS 174C",
+    "source/content/source/content/3 - Literature Notes/Courses",
+    "source/content/3 - Literature Notes/Courses/FILM TV 6A/Week 6 Reading Notes.md",
+    "source/content/3 - Literature Notes/Courses/FILM TV 6A/Week 5 Reading Notes.md",
+    "source/content/3 - Literature Notes/Courses/FILM TV 6A/Lecture 1 (9-30-2024).md",
+    "source/content/3 - Literature Notes/Courses/FILM TV 6A/1910-20s silent women films.md",
+    "source/content/3 - Literature Notes/Courses/FILM TV 6A/0verview.md",
+    "source/content/3 - Literature Notes/Courses/DH 150/Untitled.md",
+    "source/content/3 - Literature Notes/Courses/CS 174C/Lecture 9 (Feb 5).md",
+    "source/content/3 - Literature Notes/Courses/CS 174C/Lecture 8 (Feb 3).md",
+    "source/content/3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
+    "source/content/3 - Literature Notes/Courses/CS 174C/Lecture 4 (Jan 15).md",
+    "source/content/3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
+    "source/content/3 - Literature Notes/Courses/CS 174C/Lecture 2 (Jan 8).md",
+    "source/content/3 - Literature Notes/Courses/CS 174C/Lecture 1 (Jan 6).md",
+    "source/content/3 - Literature Notes/Courses/CS 174C/0verview.md",
+    "source/content/3 - Literature Notes/Courses/CS 134/Lecture 8 (10-23-2024).md",
+    "source/content/3 - Literature Notes/Courses/CS 134/Lecture 9 (10-28-2024).md",
+    "source/content/3 - Literature Notes/Courses/CS 134/Lecture 7 (10-21-2024).md",
+    "source/content/3 - Literature Notes/Courses/CS 134/Lecture 6 (10-16-2024).md",
+    "source/content/3 - Literature Notes/Courses/CS 134/Lecture 5 (10-14-2024).md",
+    "source/content/3 - Literature Notes/Courses/CS 134/Lecture 4 (10-9-2024).md",
+    "source/content/3 - Literature Notes/Courses/CS 134/Lecture 3 (10-7-2024).md",
+    "source/content/3 - Literature Notes/Courses/CS 134/Lecture 2 (10-2-2024).md",
+    "source/content/3 - Literature Notes/Courses/CS 134/Lecture 13 (11-20-2024).md",
+    "source/content/2 - Source Material/courses/cheatsheets/Cheat Sheet NumPy Array.pdf",
+    "source/content/2 - Source Material/courses/cheatsheets/Cheat Sheet ML Python Packages.pdf",
+    "source/content/2 - Source Material/courses/cheatsheets/Cheat Sheet Matplotlib, Pandas and Seaborn.pdf",
+    "source/content/2 - Source Material/courses/cheatsheets/Cheat Sheet K-Nearest Neighbors.pdf",
+    "source/content/2 - Source Material/courses/cheatsheets/Cheat Sheet Decision Trees.pdf",
+    "source/content/2 - Source Material/courses/cheatsheets/Cheat Sheet Linux and IPython.pdf",
+    "source/quartz/i18n/locales/zh-CN.ts",
+    "source/content/2 - Source Material/images/Pasted image 20250204084741.png",
+    "source/content/2 - Source Material/images/Pasted image 20250203152135.png",
+    "source/content/2 - Source Material/images/Pasted image 20241121171123.png",
+    "source/content/2 - Source Material/images/Pasted image 20241121150023.png",
+    "source/content/2 - Source Material/images/Pasted image 20241121145554.png",
+    "source/content/2 - Source Material/images/Pasted image 20241121145011.png",
+    "source/content/2 - Source Material/images/Pasted image 20241121145045.png",
+    "source/content/2 - Source Material/images/Pasted image 20241121143900.png",
+    "source/content/2 - Source Material/images/Pasted image 20241118152025.png",
+    "source/content/2 - Source Material/images/Pasted image 20241118151959.png"
+  ]
 }

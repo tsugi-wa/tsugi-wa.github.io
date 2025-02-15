@@ -1,3 +1,6 @@
+--
+publish: true
+--
 see Ch3 and Appendix B.5
 interpolation and motion curves
 

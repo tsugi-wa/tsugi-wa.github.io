@@ -1,3 +1,6 @@
+--
+publish: true
+--
 Particles
 - mass, velocity ,acceleration, color, age, temperature, orientation
 **Fields: **

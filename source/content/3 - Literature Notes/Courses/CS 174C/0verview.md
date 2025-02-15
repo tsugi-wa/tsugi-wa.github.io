@@ -1,7 +1,7 @@
 ---
-title: My Public Note
 publish: true
 ---
+
 ## Lecture/Topic Index
 
 | Week | Lecture                 | Summary                                                  | slides   |

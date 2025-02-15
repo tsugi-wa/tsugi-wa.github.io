@@ -1,3 +1,6 @@
+--
+publish: true
+--
 ## Historical Significiant Computer Animations (Ch1 of textbook)
 1st computer animation:
 - 1961 Sweden "Rendering of a planned highway" on BESK vacuum tube computer (vector graphics on CRT display)
