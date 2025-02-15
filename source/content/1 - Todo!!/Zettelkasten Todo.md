@@ -11,7 +11,7 @@ Date Due: N/A
 - [ ] [iCloud sync Obsidian](https://www.youtube.com/watch?v=Fvnaz8eywiI)
 
 READING
-- [ ] read [[-Communication with Noteboxes An Empirical Account By Niklas Luhmann]]
+- [ ] read [[Communication with Noteboxes An Empirical Account By Niklas Luhmann]]
 - [ ] BTTAI Unit 3 [Finish](https://lms.ecornell.com/courses/1780659/pages/module-introduction-train-a-logistic-regression-model?module_item_id=30104965)
 - [ ] BTTAI Unit 4
 - [ ] BTTAI Unit 5

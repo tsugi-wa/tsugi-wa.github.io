@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "3 - Literature Notes/Courses/FILM TV 6A/Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Lecture"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "3 - Literature Notes/Courses/FILM TV 6A/Lecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Lecture"
             }
           }
         ],
@@ -166,23 +166,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.1\r\nLocalize attachments (plugin folder)": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2d9129bb8dcf7983",
+  "active": "f5cacf74974af8a6",
   "lastOpenFiles": [
+    "3 - Literature Notes/Courses/FILM TV 6A/1910-20s silent women films.md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 2 (Jan 8).md",
+    "3 - Literature Notes/Courses/CS 174C/0verview.md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 1 (Jan 6).md",
+    "3 - Literature Notes/Courses/CS 134/0verview.md",
+    "3 - Literature Notes/Courses/CS 134/Go Basics.md",
+    "3 - Literature Notes/Courses/CS 134/Lecture 3 (10-7-2024).md",
+    "3 - Literature Notes/Courses/BTTAI ML/1. Machine Learning in a Nutshell.md",
+    "3 - Literature Notes/Courses/BTTAI ML/6. Improve Performance with Ensemble Methods.md",
+    "3 - Literature Notes/Courses/BTTAI ML/5. Evaluate and Improve Your Model.md",
+    "3 - Literature Notes/Courses/BTTAI ML/4. Train a Binary Linear Model.md",
+    "3 - Literature Notes/Courses/BTTAI ML/3. Train Common ML Models.md",
+    "3 - Literature Notes/Courses/BTTAI ML/2. Manage Data in ML.md",
+    "3 - Literature Notes/Books/The Last Wish.md",
+    "3 - Literature Notes/Books/-Faliks book.md",
+    "3 - Literature Notes/Articles/Communication with Noteboxes An Empirical Account By Niklas Luhmann.md",
+    "2 - Source Material/literature/Communication with Noteboxes, An Empirical Account by Niklas Luhmann.md",
+    "2 - Source Material/literature/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples (2021).pdf",
+    "2 - Source Material/literature/24F_CS134_LEC5.pdf",
+    "2 - Source Material/courses/Weiss.pdf",
+    "2 - Source Material/courses/Lary May.pdf",
+    "2 - Source Material/courses/Klein, Moses.pdf",
+    "2 - Source Material/courses/CS 134 - Project 2.pdf",
+    "index.md",
     "New Text Document.txt",
     "1 - Todo!!/Zettelkasten Todo.md",
     "3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 2 (Jan 8).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 1 (Jan 6).md",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "index.md",
     "category-folder"
   ]
 }
