@@ -7,7 +7,9 @@ Recording: https://bruinlearn.ucla.edu/courses/198870/modules/items/7144928
 - how video game graphics work (backbone steps ^ for every game ever)
 - How gpus work
 - How ray tracing works
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C8YtdC8mxTU?si=8bYn_ZvRSBDWcD0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C8YtdC8mxTU?si=8bYn_ZvRSBDWcD0L" title="YouTube video player" style="border: none;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+
+
 - graphics = millions of verticies, triangles, colors/textures, etc. virtual sun
 - processed 1s and 0s with computer GPU? 
 ![[c7b1eab729c5f462fbd12e04b85862f2_MD5.jpeg]]

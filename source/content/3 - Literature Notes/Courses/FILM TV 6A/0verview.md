@@ -1,8 +1,7 @@
 ---
 publish: true
-Slides: 
-Recording:
 ---
+
 ## Lecture/Topic Index
 
 | Week | Lecture #                                                                                         | Summary                               |

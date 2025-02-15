@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Literature Notes/Courses/FILM TV 6A/Lecture.md",
-                "mode": "source",
-                "source": false
+                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 1 (Jan 6).md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture"
+              "title": "Lecture 1 (Jan 6)"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Literature Notes/Courses/FILM TV 6A/Lecture.md",
+                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 1 (Jan 6).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture"
+              "title": "Outline of Lecture 1 (Jan 6)"
             }
           }
         ],
@@ -174,6 +174,11 @@
   },
   "active": "f5cacf74974af8a6",
   "lastOpenFiles": [
+    "3 - Literature Notes/Courses/CS 134/Lecture 1 (9-30-2024).md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 9 (Feb 5).md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 8 (Feb 3).md",
+    "3 - Literature Notes/Courses/FILM TV 6A/Lecture.md",
     "3 - Literature Notes/Courses/FILM TV 6A/1910-20s silent women films.md",
     "3 - Literature Notes/Courses/CS 174C/Lecture 2 (Jan 8).md",
     "3 - Literature Notes/Courses/CS 174C/0verview.md",
@@ -202,7 +207,6 @@
     "1 - Todo!!/Zettelkasten Todo.md",
     "3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
     "category-folder/index.md",
-    "category-folder/Some note.md",
     "category-folder"
   ]
 }

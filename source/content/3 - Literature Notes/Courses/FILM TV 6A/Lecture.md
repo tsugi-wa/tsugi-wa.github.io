@@ -1,6 +1,7 @@
---
+---
 publish: true
---
+---
+
 ## Vaudeville (1880s-1920s)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fwK1VR50drk?si=_swF9Ml2F-86daTO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
