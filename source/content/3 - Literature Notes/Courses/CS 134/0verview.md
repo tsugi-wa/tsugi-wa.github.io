@@ -1,3 +1,8 @@
+--
+publish: true
+--
+
+
 ## Lecture/Topic Index
 
 | Week | Lecture #                                                                            | Summary                                                         |

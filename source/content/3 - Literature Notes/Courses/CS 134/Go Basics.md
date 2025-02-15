@@ -1,3 +1,7 @@
+--
+publish: true
+--
+
 # Intro
 packages - ways to reference files. 
 - package main: entry point file

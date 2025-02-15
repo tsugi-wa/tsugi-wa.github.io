@@ -1,6 +1,8 @@
---
+---
 publish: true
---
+Slides: 
+Recording:
+---
 Toy Story behind the scenes :
 - fur, weather, clothing animated at the end via physics simulation AFTER posing animation (sometimes exaggerated)
 - virtual lights strategically placed for mood, tone, etc.

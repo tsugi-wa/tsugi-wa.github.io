@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 2024-08-16 09:59
 
 Status: #baby

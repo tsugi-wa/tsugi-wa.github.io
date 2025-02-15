@@ -1,4 +1,5 @@
 ---
+publish: true
 Urgency: "!"
 Date Due: N/A
 ---

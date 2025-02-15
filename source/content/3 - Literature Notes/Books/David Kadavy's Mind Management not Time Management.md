@@ -1,3 +1,7 @@
+--
+publish: true
+--
+
 # Ch 1
 creativity not just in art - coming up both **novel** and **useful** item
 interdisciplinary or outcomes hard to measure best against job stealing from AI  

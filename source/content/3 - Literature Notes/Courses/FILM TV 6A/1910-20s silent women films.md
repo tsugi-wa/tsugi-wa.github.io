@@ -1,3 +1,8 @@
+---
+publish: true
+Slides: 
+Recording:
+---
 #  1910-20s silent women films
 Photo of women vs men director portraying themselves - male director individual genius against a monument vs female craft-focused with a team
 Implicit capitalism - inherent wealthy white man > less wealthy colored women for example

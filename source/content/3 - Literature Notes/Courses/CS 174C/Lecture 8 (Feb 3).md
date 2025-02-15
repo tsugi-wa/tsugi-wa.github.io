@@ -1,6 +1,8 @@
---
+---
 publish: true
---
+Slides: 
+Recording:
+---
 Particles
 - mass, velocity ,acceleration, color, age, temperature, orientation
 **Fields: **

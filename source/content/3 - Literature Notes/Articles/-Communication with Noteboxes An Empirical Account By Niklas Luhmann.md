@@ -1,3 +1,7 @@
+--
+publish: true
+--
+
 [Communication with Noteboxes An Empirical Account By Niklas Luhmann](https://www.scottscheper.com/zettelkasten/)
 # Section I: Intro
 - impossible to think without writing (sophisticated/networked) to capture distinctions in concepts

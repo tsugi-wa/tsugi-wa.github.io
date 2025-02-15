@@ -1,4 +1,5 @@
 ---
+publish: true
 Urgency: "!!"
 Date Due: 9/7/2024 5 AM
 ---
