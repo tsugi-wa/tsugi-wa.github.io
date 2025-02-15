@@ -8,7 +8,6 @@ Recording: https://bruinlearn.ucla.edu/courses/198870/modules/items/7144928
 - How gpus work
 - How ray tracing works
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C8YtdC8mxTU?si=8bYn_ZvRSBDWcD0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - graphics = millions of verticies, triangles, colors/textures, etc. virtual sun
 - processed 1s and 0s with computer GPU? 
 ![[c7b1eab729c5f462fbd12e04b85862f2_MD5.jpeg]]
@@ -24,7 +23,7 @@ Recording: https://bruinlearn.ucla.edu/courses/198870/modules/items/7144928
 ## 2. Rasterization (2D->pixel)
 - convert vertex to pixelated screen of display 
 - then shade using texture/assigned picture to colored fragment pixels
-- ![[9face2e1898b29b29c10299f6d70e77e_MD5.jpeg]]]]
+- ![[9face2e1898b29b29c10299f6d70e77e_MD5.jpeg]]
 ![[28fd27badaa4af4828a9a9781b99837e_MD5.jpeg]]
 - depth/z-buffer for finding which fragments overlap others
 ![[ea552910069cae9debe3f97218cae7a8_MD5.jpeg]]
@@ -36,10 +35,10 @@ Recording: https://bruinlearn.ucla.edu/courses/198870/modules/items/7144928
 ## 3. Fragment Shading (Lighting)
 - directional lighting via shadows, reflections, camera pos, etc.
 	- **ambient** (background, moonlight)
-	- **diffuse** (light source, aka direction of light and direction of triangle surface (normal)
+	- **diffuse** (light source, aka direction of light and direction of triangle surface (normal))
 		- if normal align with light (cosine is 1) maximum light intensity coeff
 		- clamped so not reach 0, to account scattered ambient light!
-		- expensive if lots of light sources so limit range of influence + add ambient]]
+		- expensive if lots of light sources so limit range of influence + add ambient
 ![[902db15be36c88ba2d6b181dcaf05559_MD5.jpeg]]
 	- **specular** (metallic shiny etc.)
 	- improved **blinn-phong**: 
