@@ -1,5 +1,6 @@
 ---
 title: My GitHub Pages Notebook!
+publish: true
 ---
 
 
