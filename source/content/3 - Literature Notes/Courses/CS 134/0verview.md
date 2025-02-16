@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 Date Created: 02-15-2025 7:07
 ---
 ## Lecture/Topic Index

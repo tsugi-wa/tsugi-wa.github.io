@@ -8,34 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c5c992440e2b1f8",
+            "id": "520a1f637607d2ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Bullet Journal/Todo Jotted Notes/Zettelkasten Todo.md",
+                "file": "0. Bullet Journal/FIRE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zettelkasten Todo"
+              "title": "FIRE"
             }
           },
           {
-            "id": "39790c77a283be88",
+            "id": "5ab6ebd0ef8b2869",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2 - Source Material/images/72d5a15eea38425c328faf0bf9d43a1f_MD5.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "72d5a15eea38425c328faf0bf9d43a1f_MD5"
+            }
+          },
+          {
+            "id": "7c8521849ac3732e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Literature Notes/Courses/CS 174C/0verview.md",
+                "file": "0. Bullet Journal/2024-2025 year/02 - Feb/02 - Feb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0verview"
+              "title": "02 - Feb"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
+                "file": "2 - Source Material/images/72d5a15eea38425c328faf0bf9d43a1f_MD5.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 3 (Jan 13)"
+              "title": "Backlinks for 72d5a15eea38425c328faf0bf9d43a1f_MD5"
             }
           },
           {
@@ -156,22 +169,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Bullet Journal/Todo Jotted Notes/Zettelkasten Todo.md",
+                "file": "2 - Source Material/images/72d5a15eea38425c328faf0bf9d43a1f_MD5.jpeg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Zettelkasten Todo"
+              "title": "Outline of 72d5a15eea38425c328faf0bf9d43a1f_MD5"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,41 +197,47 @@
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "6 - Templates/year.md",
-    "3 - Literature Notes/Books/The Last Wish.md",
-    "6 - Templates/publish.md",
-    "4 - Permanent Notes/Options Trading.md",
-    "1. Rough Notes/MusicApp Idea.md",
-    "6 - Templates/monthly.md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 8 (Feb 3).md",
-    "3 - Literature Notes/Courses/CS 134/Lecture 7 (10-21-2024).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 4 (Jan 15).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 2 (Jan 8).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 1 (Jan 6).md",
-    "3 - Literature Notes/Courses/FILM TV 6A/Lecture.md",
-    "1. Rough Notes/interview prep 2025.md",
+    "2 - Source Material/images/99bdcbcd7953d7ae246ff03c7875103c_MD5.png",
+    "2 - Source Material/images/efa32dadc0c6c4f1a8be675317687571_MD5.png",
+    "2 - Source Material/images/edb7dcf921f4ae6aa0c2d46a4e3d2240_MD5.png",
+    "ecde98833264b688d8ef90ca5766778c_MD5.jpeg",
+    "2 - Source Material/images/72d5a15eea38425c328faf0bf9d43a1f_MD5.jpeg",
+    "5 - Indexes/research.md",
+    "1. Rough Notes/old plans/index.md",
+    "1. Rough Notes/old plans/nvidia mentor.md",
+    "0. Bullet Journal/FIRE.md",
+    "4 - Permanent Notes/composers/image2.md",
     "index.md",
-    "3 - Literature Notes/Courses/CS 134/Go Basics.md",
-    "4 - Permanent Notes/FIRE dream pinterests.md",
-    "0. Bullet Journal/Todo Jotted Notes/F.I.R.E Research Todo.md",
-    "3 - Literature Notes/Books/Digital Madness.md",
-    "3 - Literature Notes/Books/David Kadavy's Mind Management not Time Management.md",
-    "3 - Literature Notes/Books/David Kadavy's 'Digital Zettelkasten'.md",
-    "6 - Templates/daily.md",
-    "3 - Literature Notes/Articles/Communication with Noteboxes An Empirical Account By Niklas Luhmann.md",
-    "0. Bullet Journal/2024-2025 year/2025-2026.md",
-    "0. Bullet Journal/2024-2025 year/02 - Feb/2025-02-15.md",
-    "4 - Permanent Notes/Grace Chen Resume.pdf",
-    "2 - Source Material/courses/CS 134 - Project 2.pdf",
-    "0. Bullet Journal/2024-2025 year/02 - Feb",
-    "0. Bullet Journal/2024-2025 year",
-    "0. Bullet Journal",
-    "Bullet Journal",
-    "6 - Templates/daily.txt",
-    "6 - Templates/New Text Document.txt",
-    "2 - Source Material/literature/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples (2021).pdf",
-    "2 - Source Material/literature/24F_CS134_LEC5.pdf"
+    "5 - Indexes/research2.md.crdownload",
+    "5 - Indexes/ferment.md",
+    "5 - Indexes/cook.md",
+    "5 - Indexes/art.md",
+    "3 - Literature Notes/Pieces/what pieces to play_.md",
+    "1. Rough Notes/old plans/NewGracePlan.md",
+    "Pasted image 20250216132907.png",
+    "1. Rough Notes/old plans/NewGracePlan.md.crdownload",
+    "1. Rough Notes/old plans",
+    "1. Rough Notes/New folder",
+    "3 - Literature Notes/Pieces/Rachmaninoff Etudes-tableaux, Op. 39 No. 5.md",
+    "5 - Indexes/Piano.md",
+    "4 - Permanent Notes/composers/Prokofiev, Sergei.md",
+    "3 - Literature Notes/Pieces/what pieces to play_.md.crdownload",
+    "4 - Permanent Notes/composers/Liszt, Franz.md",
+    "4 - Permanent Notes/composers/Debussy, Claude.md",
+    "4 - Permanent Notes/composers/Ravel, Maurice.md",
+    "4 - Permanent Notes/composers/Scriabin, Alexander.md",
+    "4 - Permanent Notes/composers/Kapustin, Nikolai.md",
+    "4 - Permanent Notes/composers/Rachmaninoff, Sergei.md",
+    "4 - Permanent Notes/composers/Schoenberg, Arnold.md",
+    "4 - Permanent Notes/composers/Chopin, Frédéric.md",
+    "4 - Permanent Notes/composers/Mendelssohn, Felix.md",
+    "4 - Permanent Notes/composers/Brahms, Johannes.md",
+    "4 - Permanent Notes/composers/Schumann, Robert.md",
+    "3 - Literature Notes/Pieces/Chopin Nocturne Op. 55 No. 2.md.crdownload",
+    "3 - Literature Notes/Pieces",
+    "3 - Literature Notes/New folder",
+    "Practicing the Ear.md.crdownload",
+    "Pasted image 20250216120319.png",
+    "4 - Permanent Notes/composers"
   ]
 }

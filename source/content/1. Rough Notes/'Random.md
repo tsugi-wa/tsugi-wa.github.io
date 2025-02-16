@@ -1,3 +1,4 @@
+[how to use japanese curry boxes and udon](https://www.youtube.com/shorts/EtsEVlHqEUM)
 # recipes
 **tomato egg noodle:**
 **red bean soup**
