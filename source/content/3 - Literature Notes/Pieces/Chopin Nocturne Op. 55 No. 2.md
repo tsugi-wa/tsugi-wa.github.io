@@ -4,7 +4,6 @@ Last Modified: 6-1-2022 7:56
 Slides link: https://docs.google.com/presentation/d/1LeUZTPhckF8x57OlnSB207AFplSRWGxXHmEpCX7jn90/edit?usp=sharing
 publish: true
 ---
-Tags:
 ## Notes
 
 Chopin Nocturne \- form and meaning\!??  

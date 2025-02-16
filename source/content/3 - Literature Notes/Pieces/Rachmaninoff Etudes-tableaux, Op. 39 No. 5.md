@@ -3,7 +3,6 @@ Date Created: 02-16-2025 2:02
 Last Modified: 5-30-2022 6:18
 publish: true
 ---
-Tags:
 ## Draft notes
 \- beginning striking, beautiful balanced melody (the government) where everything appears fine, military just goes into ww1 strong and confident, no unrest feeling
 

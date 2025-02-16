@@ -37,23 +37,23 @@ $165-->180
 	- time of expiration (more time = more \$\$)
 		- weekly, monthly, or quarterly options
 	- implied volatility so far : (more volatile = more \$\$)
-		- ![[Pasted image 20241118152025.png]]
+		- ![[Pasted image 20241118152025.png#invert]]
 		- more risk of stock owner = higher premium
 - option buyer (me:  unlimited upside, max loss of premium) option seller reversed
-- examples of premium costs for 30 day 100 shares in relation to current market price![[Pasted image 20241118151603.png]]
+- examples of premium costs for 30 day 100 shares in relation to current market price![[Pasted image 20241118151603.png#invert]]
 	- puts want it to go down from strike price, calls want it to grow from strike price
 	- if still out of money when expired: worthless (loss = premium)
-		- ![[Pasted image 20241118151959.png]]
+		- ![[Pasted image 20241118151959.png#invert]]
 - can exercise at any time before expiration
 - at expiration however, anything out of the money 
 
 ## strategies
 breakout trading:
-![[Pasted image 20241118150237.png]]
+![[Pasted image 20241118150237.png#invert]]
 if it works:
-![[Pasted image 20241118150253.png]]
+![[Pasted image 20241118150253.png#invert]]
 if it fails:
-![[Pasted image 20241118150305.png]]
+![[Pasted image 20241118150305.png#invert]]
 - no more than 2% of capital per trade because can expect immense loss
 - stock, index, commodity, currency
 - 
