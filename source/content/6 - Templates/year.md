@@ -6,7 +6,6 @@ Date Created: "{{date}} {{time}}"
 - 
 
 # Log
-
 - [<] 
 
 ### June

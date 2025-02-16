@@ -25,12 +25,14 @@
             "id": "5ab6ebd0ef8b2869",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2 - Source Material/images/72d5a15eea38425c328faf0bf9d43a1f_MD5.jpeg"
+                "file": "0. Bullet Journal/2024-2025 year/02 - Feb/2025-02-16.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "72d5a15eea38425c328faf0bf9d43a1f_MD5"
+              "icon": "lucide-file",
+              "title": "2025-02-16"
             }
           },
           {
@@ -80,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "research",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/images/72d5a15eea38425c328faf0bf9d43a1f_MD5.jpeg",
+                "file": "0. Bullet Journal/2024-2025 year/02 - Feb/2025-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 72d5a15eea38425c328faf0bf9d43a1f_MD5"
+              "title": "Backlinks for 2025-02-16"
             }
           },
           {
@@ -169,16 +171,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/images/72d5a15eea38425c328faf0bf9d43a1f_MD5.jpeg",
+                "file": "0. Bullet Journal/2024-2025 year/02 - Feb/2025-02-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 72d5a15eea38425c328faf0bf9d43a1f_MD5"
+              "title": "Outline of 2025-02-16"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,49 +198,50 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "5ab6ebd0ef8b2869",
   "lastOpenFiles": [
+    "0. Bullet Journal/2024-2025 year/2024-2025.md",
+    "0. Bullet Journal/2024-2025 year/gap year.md",
+    "0. Bullet Journal/2024-2025 year/02 - Feb/2025-02-16.md",
+    "0. Bullet Journal/2024-2025 year/02 - Feb/2025-02-15.md",
+    "0. Bullet Journal/2024-2025 year/02 - Feb/02 - Feb.md",
+    "6 - Templates/year.md",
+    "6 - Templates/publish.md",
+    "6 - Templates/monthly.md",
+    "6 - Templates/lecture metadata.md",
+    "6 - Templates/Generic Metadata.md",
+    "6 - Templates/daily.md",
+    "0. Bullet Journal/FIRE.md",
+    "5 - Indexes/research.md",
+    "4 - Permanent Notes/Options Trading.md",
+    "4 - Permanent Notes/Grace Chen Resume.pdf",
+    "4 - Permanent Notes/FIRE dream pinterests.md",
+    "3 - Literature Notes/Pieces/what pieces to play_.md",
+    "3 - Literature Notes/Pieces/Chopin Nocturne Op. 55 No. 2.md",
+    "3 - Literature Notes/Pieces/Rachmaninoff Etudes-tableaux, Op. 39 No. 5.md",
+    "3 - Literature Notes/Books/The Last Wish.md",
+    "3 - Literature Notes/Books/Mind (not Time) Management.md",
+    "3 - Literature Notes/Books/Digital Zettelkasten.md",
+    "3 - Literature Notes/Books/Digital Madness.md",
+    "3 - Literature Notes/Books/-The Road by Cormac McCarthy.md",
+    "3 - Literature Notes/Books/-Indistractible by Nir Eyal.md",
+    "3 - Literature Notes/Books/-Faliks book.md",
+    "3 - Literature Notes/Books/-Charlie Munger BILLIONAIRE.md",
+    "7  - Archive/Submissions/Masters Application reqs.md.crdownload",
+    "7  - Archive/Submissions/Grad app.md.crdownload",
+    "2 - Source Material/images/72d5a15eea38425c328faf0bf9d43a1f_MD5.jpeg",
     "2 - Source Material/images/99bdcbcd7953d7ae246ff03c7875103c_MD5.png",
     "2 - Source Material/images/efa32dadc0c6c4f1a8be675317687571_MD5.png",
     "2 - Source Material/images/edb7dcf921f4ae6aa0c2d46a4e3d2240_MD5.png",
     "ecde98833264b688d8ef90ca5766778c_MD5.jpeg",
-    "2 - Source Material/images/72d5a15eea38425c328faf0bf9d43a1f_MD5.jpeg",
-    "5 - Indexes/research.md",
-    "1. Rough Notes/old plans/index.md",
-    "1. Rough Notes/old plans/nvidia mentor.md",
-    "0. Bullet Journal/FIRE.md",
-    "4 - Permanent Notes/composers/image2.md",
-    "index.md",
     "5 - Indexes/research2.md.crdownload",
-    "5 - Indexes/ferment.md",
-    "5 - Indexes/cook.md",
-    "5 - Indexes/art.md",
-    "3 - Literature Notes/Pieces/what pieces to play_.md",
-    "1. Rough Notes/old plans/NewGracePlan.md",
     "Pasted image 20250216132907.png",
     "1. Rough Notes/old plans/NewGracePlan.md.crdownload",
     "1. Rough Notes/old plans",
     "1. Rough Notes/New folder",
-    "3 - Literature Notes/Pieces/Rachmaninoff Etudes-tableaux, Op. 39 No. 5.md",
-    "5 - Indexes/Piano.md",
-    "4 - Permanent Notes/composers/Prokofiev, Sergei.md",
     "3 - Literature Notes/Pieces/what pieces to play_.md.crdownload",
-    "4 - Permanent Notes/composers/Liszt, Franz.md",
-    "4 - Permanent Notes/composers/Debussy, Claude.md",
-    "4 - Permanent Notes/composers/Ravel, Maurice.md",
-    "4 - Permanent Notes/composers/Scriabin, Alexander.md",
-    "4 - Permanent Notes/composers/Kapustin, Nikolai.md",
-    "4 - Permanent Notes/composers/Rachmaninoff, Sergei.md",
-    "4 - Permanent Notes/composers/Schoenberg, Arnold.md",
-    "4 - Permanent Notes/composers/Chopin, Frédéric.md",
-    "4 - Permanent Notes/composers/Mendelssohn, Felix.md",
-    "4 - Permanent Notes/composers/Brahms, Johannes.md",
-    "4 - Permanent Notes/composers/Schumann, Robert.md",
     "3 - Literature Notes/Pieces/Chopin Nocturne Op. 55 No. 2.md.crdownload",
     "3 - Literature Notes/Pieces",
-    "3 - Literature Notes/New folder",
-    "Practicing the Ear.md.crdownload",
-    "Pasted image 20250216120319.png",
-    "4 - Permanent Notes/composers"
+    "Pasted image 20250216120319.png"
   ]
 }

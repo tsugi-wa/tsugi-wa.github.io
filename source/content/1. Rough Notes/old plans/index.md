@@ -1,3 +1,8 @@
+---
+publish: true
+Date Created: 02-16-2025 1:01
+---
+career (jan 10-13, 2025): [link](https://docs.google.com/document/d/1Y-DYg-jN1zy5ZzPRcDI9VoceNlwvpBSVpTx9-rsY4OM/edit?usp=sharing)
 March 17-April 13, 2023: [NewGracePlan](https://docs.google.com/document/d/1nTHrIaJv9O8WRIy5wAGtYbZVIhshvJ1Prn6wP1UP76M/edit?usp=sharing)
 June 21-22, 2023: [piano plan](https://docs.google.com/document/d/1wy9rVOrMiuBIiQzS8aMXRaNqgoo17baAM9VBN1c8cMQ/edit?tab=t.0)
 

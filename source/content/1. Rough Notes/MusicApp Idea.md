@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-
+see old plan b4 reading paper: [link](https://docs.google.com/document/d/1Zq-eJ1rLH_Cj_r9ObEA-WbUZY_gJFFeWPvyehgoDOLU/edit?usp=sharing)
 2024-08-16 09:59
 
 Status: #baby

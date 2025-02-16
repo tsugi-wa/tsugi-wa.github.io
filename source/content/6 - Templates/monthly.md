@@ -3,12 +3,12 @@ publish: false
 Date Created: "{{date}} {{time}}"
 ---
 ## Goals
-
  - [ ] Go big!
+
 ## The Work
 Commitment to getting better, stronger, etc.
-## Calendar
 
+## Calendar
 | Day | Event |
 | --- | ----- |
 | 01  |       |
@@ -44,7 +44,6 @@ Commitment to getting better, stronger, etc.
 | 31  |       |
 
 ## What I Learned
-
  - [p] Good Thing
  - [c] Bad Thing
  - ["] Interesting Quote

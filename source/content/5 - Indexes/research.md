@@ -3,6 +3,10 @@ publish: true
 Date Created: 01-26-2025 8:18
 Last Modified: 02-09-2025 18:55
 ---
+# Other
+[[Options Trading]]
+
+# Nvidia
 ## [Jensen Huang Inteview](https://www.youtube.com/watch?v=7ARBJQn6QkM)
 GPUS are time travelling
 - simulation of futures, enable lifetimes worth of work in one lifetime  
@@ -50,7 +54,7 @@ GPUS are time travelling
 	- cuda; 
 
 
-
+# Job Market as ML Researcher
 ## [The Harsh Reality of Being an ML Researcher](https://www.youtube.com/watch?v=Me8klpxNaeg)
 
 - phD greatly helps getting into FAANG, otherwise need equivalent exp  
