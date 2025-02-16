@@ -12,12 +12,9 @@ Date Due: N/A
 
 READING
 - [ ] read [[Communication with Noteboxes An Empirical Account By Niklas Luhmann]]
-- [ ] BTTAI Unit 3 [Finish](https://lms.ecornell.com/courses/1780659/pages/module-introduction-train-a-logistic-regression-model?module_item_id=30104965)
-- [ ] BTTAI Unit 4
-- [ ] BTTAI Unit 5
-- [ ] BTTAI Unit 6
-- [ ] BTTAI Unit 7
-- [ ] BTTAI Unit 8
-- [ ] BTTAI Unit 9
+- [ ] read A Random Walk Down Wall Street
+- [ ] read Hijacking Bitcoin
+- [ ] read Irreplaceable
+- [ ] ask dad for good reading recs
 
 [My path to Nebo](https://www.reddit.com/r/ObsidianMD/comments/1f9r6jl/seeking_handwritingtotext_notetaking/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)

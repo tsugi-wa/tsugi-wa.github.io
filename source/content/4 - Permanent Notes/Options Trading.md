@@ -1,3 +1,7 @@
+---
+publish: true
+Date Created: 02-15-2025 7:07
+---
 https://www.youtube.com/watch?v=XV9avMhNL2Y
 https://www.youtube.com/watch?v=MiybniIIvx0
 

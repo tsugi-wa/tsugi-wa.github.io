@@ -1,7 +1,7 @@
---
+---
 publish: true
---
-
+Date Created: 02-15-2025 7:07
+---
 # Section I: Intro
 - impossible to think without writing (sophisticated/networked) to capture distinctions in concepts
 - schema to process info? 

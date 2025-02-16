@@ -28,7 +28,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      folderDefaultState: "open", })),
+      folderDefaultState: "open", 
+    })),
   ],
   right: [
     Component.Graph(),

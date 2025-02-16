@@ -1,7 +1,7 @@
---
+---
 publish: true
---
-
+Date Created: "02-15-2025 7:07"
+---
 ease with ourselves, rather shock than be alone with our thoughts
 attention? iterative dimunition of our choices - frog boil
 illusion of choice - but actually narrowin because maniuplated for profit

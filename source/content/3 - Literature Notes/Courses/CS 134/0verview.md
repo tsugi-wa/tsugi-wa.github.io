@@ -1,8 +1,7 @@
---
+---
 publish: true
---
-
-
+Date Created: 02-15-2025 7:07
+---
 ## Lecture/Topic Index
 
 | Week | Lecture #                                                                            | Summary                                                         |

@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d7551329e9d0d0ef",
+        "id": "ad4ad0c235b639d3",
         "type": "tabs",
         "children": [
           {
-            "id": "f5cacf74974af8a6",
+            "id": "2c5c992440e2b1f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 1 (Jan 6).md",
-                "mode": "preview",
-                "source": true
+                "file": "0. Bullet Journal/Todo Jotted Notes/Zettelkasten Todo.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 (Jan 6)"
+              "title": "Zettelkasten Todo"
+            }
+          },
+          {
+            "id": "39790c77a283be88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Literature Notes/Courses/CS 174C/0verview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0verview"
             }
           }
         ]
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 1 (Jan 6).md",
+                "file": "0. Bullet Journal/Todo Jotted Notes/Zettelkasten Todo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 1 (Jan 6)"
+              "title": "Outline of Zettelkasten Todo"
             }
           }
         ],
@@ -156,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,47 +181,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.1\r\nLocalize attachments (plugin folder)": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-local-images-plus:Local Images Plus  0.16.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f5cacf74974af8a6",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "3 - Literature Notes/Courses/CS 134/Lecture 1 (9-30-2024).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 9 (Feb 5).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 8 (Feb 3).md",
-    "3 - Literature Notes/Courses/FILM TV 6A/Lecture.md",
-    "3 - Literature Notes/Courses/FILM TV 6A/1910-20s silent women films.md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 2 (Jan 8).md",
-    "3 - Literature Notes/Courses/CS 174C/0verview.md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 1 (Jan 6).md",
-    "3 - Literature Notes/Courses/CS 134/0verview.md",
-    "3 - Literature Notes/Courses/CS 134/Go Basics.md",
-    "3 - Literature Notes/Courses/CS 134/Lecture 3 (10-7-2024).md",
-    "3 - Literature Notes/Courses/BTTAI ML/1. Machine Learning in a Nutshell.md",
-    "3 - Literature Notes/Courses/BTTAI ML/6. Improve Performance with Ensemble Methods.md",
-    "3 - Literature Notes/Courses/BTTAI ML/5. Evaluate and Improve Your Model.md",
-    "3 - Literature Notes/Courses/BTTAI ML/4. Train a Binary Linear Model.md",
-    "3 - Literature Notes/Courses/BTTAI ML/3. Train Common ML Models.md",
-    "3 - Literature Notes/Courses/BTTAI ML/2. Manage Data in ML.md",
+    "6 - Templates/year.md",
     "3 - Literature Notes/Books/The Last Wish.md",
-    "3 - Literature Notes/Books/-Faliks book.md",
-    "3 - Literature Notes/Articles/Communication with Noteboxes An Empirical Account By Niklas Luhmann.md",
-    "2 - Source Material/literature/Communication with Noteboxes, An Empirical Account by Niklas Luhmann.md",
-    "2 - Source Material/literature/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples (2021).pdf",
-    "2 - Source Material/literature/24F_CS134_LEC5.pdf",
-    "2 - Source Material/courses/Weiss.pdf",
-    "2 - Source Material/courses/Lary May.pdf",
-    "2 - Source Material/courses/Klein, Moses.pdf",
-    "2 - Source Material/courses/CS 134 - Project 2.pdf",
-    "index.md",
-    "New Text Document.txt",
-    "1 - Todo!!/Zettelkasten Todo.md",
+    "6 - Templates/publish.md",
+    "4 - Permanent Notes/Options Trading.md",
+    "1. Rough Notes/MusicApp Idea.md",
+    "6 - Templates/monthly.md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 8 (Feb 3).md",
+    "3 - Literature Notes/Courses/CS 134/Lecture 7 (10-21-2024).md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 4 (Jan 15).md",
     "3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
-    "category-folder/index.md",
-    "category-folder"
+    "3 - Literature Notes/Courses/CS 174C/Lecture 2 (Jan 8).md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 1 (Jan 6).md",
+    "3 - Literature Notes/Courses/FILM TV 6A/Lecture.md",
+    "1. Rough Notes/interview prep 2025.md",
+    "index.md",
+    "3 - Literature Notes/Courses/CS 134/Go Basics.md",
+    "4 - Permanent Notes/FIRE dream pinterests.md",
+    "0. Bullet Journal/Todo Jotted Notes/F.I.R.E Research Todo.md",
+    "3 - Literature Notes/Books/Digital Madness.md",
+    "3 - Literature Notes/Books/David Kadavy's Mind Management not Time Management.md",
+    "3 - Literature Notes/Books/David Kadavy's 'Digital Zettelkasten'.md",
+    "6 - Templates/daily.md",
+    "3 - Literature Notes/Articles/Communication with Noteboxes An Empirical Account By Niklas Luhmann.md",
+    "0. Bullet Journal/2024-2025 year/2025-2026.md",
+    "0. Bullet Journal/2024-2025 year/02 - Feb/2025-02-15.md",
+    "4 - Permanent Notes/Grace Chen Resume.pdf",
+    "2 - Source Material/courses/CS 134 - Project 2.pdf",
+    "0. Bullet Journal/2024-2025 year/02 - Feb",
+    "0. Bullet Journal/2024-2025 year",
+    "0. Bullet Journal",
+    "Bullet Journal",
+    "6 - Templates/daily.txt",
+    "6 - Templates/New Text Document.txt",
+    "2 - Source Material/literature/David Kadavy - Digital Zettelkasten_ Principles, Methods, & Examples (2021).pdf",
+    "2 - Source Material/literature/24F_CS134_LEC5.pdf"
   ]
 }
