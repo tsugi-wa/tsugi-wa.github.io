@@ -23,7 +23,7 @@ Date Created: "02-16-2025 12:12"
 
 ## Notable pieces (via Dr. Lent)
 - Chopin Ballade No. 1 in g minor Op.23
-- Chopin Ballade No. 2 in F major Op. 38 |||||||||||
+- Chopin Ballade No. 2 in F major Op. 38
 - Chopin Ballade No. 3 in Ab Major Op. 47
 - Chopin Ballade No. 4 in f minor Op. 52
 - Chopin Etude Op. 10 No. 4
@@ -50,14 +50,8 @@ Date Created: "02-16-2025 12:12"
 - Chopin Scherzo Op. 31 No. 2
 - Chopin Scherzo Op. 39 No.3 in c# Minor
 - Chopin Scherzo Op. 54 No.4
-- Chopin Sonata No. 2 Op. 35 Mov. I
-- Chopin Sonata No. 2 Op. 35 Mov. II
-- Chopin Sonata No. 2 Op. 35 Mov. III
-- Chopin Sonata No. 2 Op. 35 Mov. IV
-- Chopin Sonata No. 3 Op. 58 in b minor Mov I
-- Chopin Sonata No. 3 Op. 58 in b minor Mov. II
-- Chopin Sonata No. 3 Op. 58 in b minor Mov. III
-- Chopin Sonata No. 3 Op. 58 in b minor Mov. IV
+- Chopin Sonata No. 2 Op. 35
+- Chopin Sonata No. 3 Op. 58 in b minor
 - Chopin Waltz Op. 18 in Eb major
 - Chopin Waltz Op. 34 in Ab major
 - Chopin Waltz Op. 64 in c# minor
