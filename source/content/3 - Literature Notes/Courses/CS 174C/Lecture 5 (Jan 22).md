@@ -76,11 +76,22 @@ good for specifiying vehicle particular velocity at certain points in space
 - **control points**: knot + associated shapes
 - ![[f82328f7e0a6444dfe811e4303caf608_MD5.jpeg#invert]]
 ### **continuity**
-- parametric: 
+- no relationship btwn the two, can be both G2 and C0 etc.
+- parametric: speed/accel
+	- C0: A(1) = B(0)    aka continuous pts
+	- C1: A'(1) = B'(0)  aka continuous velocity
+	- C2: A''(1) = B''(0)  aka continuous accel
 	- ith derivatives of P (for i=0...k) always exist and continuous for all t in \[a,b]
 	- k-smooth / kth order continuity
-- geometric: 
-	- ith derivative of P to the left == some constant of ith derivative of P to the right
+- geometric: only care about shape not speed 
+	- G0: A(1) = B(0) aka continuous pts
+	- G1: P4 = P3 + (P3-P2)B   
+		- aka continuous normalized tangent
+		- also means curvature comb aligned across normal of curve
+	- G2:  P5 = P3 +(P3-P2) (2B1 + B1^2 + B2/2) + (P1-P2)B1^2 
+		- aka continuous curvature (r=1/K)
+	- ith derivative of P to the left == constant * ith derivative of P to the right
+	- ==A(t) and B(t) are Gn cont. if function g(t) exists so A(t) and B(g(t)) are Cn continuous.==
 #### parametric
 ![[4077c2d137ac2d2ad18cafe7545e4056_MD5.jpeg#invertW]]
 

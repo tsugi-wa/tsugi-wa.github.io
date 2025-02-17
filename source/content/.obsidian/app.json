@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "4 - Permanent Notes/composers"
 }

@@ -8,49 +8,48 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d074e0911481888d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 5 (Jan 22)"
+            }
+          },
+          {
+            "id": "bb8e1cb9346184a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 6 (Jan 27).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 6 (Jan 27)"
+            }
+          },
+          {
             "id": "520a1f637607d2ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "3 - Literature Notes/Courses/CS 174C/Midterm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "5ab6ebd0ef8b2869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Bullet Journal/2024-2025 year/gap year.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gap year"
-            }
-          },
-          {
-            "id": "7c8521849ac3732e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Bullet Journal/2024-2025 year/02 - Feb/02 - Feb.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 - Feb"
+              "title": "Midterm"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Bullet Journal/2024-2025 year/gap year.md",
+                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gap year"
+              "title": "Backlinks for Lecture 5 (Jan 22)"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Bullet Journal/2024-2025 year/gap year.md",
+                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gap year"
+              "title": "Outline of Lecture 5 (Jan 22)"
             }
           }
         ],
@@ -198,17 +198,25 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "5ab6ebd0ef8b2869",
+  "active": "d074e0911481888d",
   "lastOpenFiles": [
+    "3 - Literature Notes/Courses/CS 174C/Lecture 6 (Jan 27).md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
+    "3 - Literature Notes/Courses/CS 174C/0verview.md",
+    "3 - Literature Notes/Courses/CS 174C/Lecture 4 (Jan 15).md",
+    "3 - Literature Notes/Courses/CS 174C/Midterm.md",
+    "0. Bullet Journal/2024-2025 year/02 - Feb/02 - Feb.md",
+    "4 - Permanent Notes/composers/Midterm.md",
+    "index.md",
+    "7  - Archive/NIer Automata.md",
+    "0. Bullet Journal/2024-2025 year/gap year.md",
     "0. Bullet Journal/2024-2025 year/2024-2025.md",
     "1. Rough Notes/old plans/index.md",
     "1. Rough Notes/old plans/interview prep 2025.md",
     "0. Bullet Journal/FIRE.md",
     "4 - Permanent Notes/composers/Chopin, Frédéric.md",
     "4 - Permanent Notes/composers/Handel, George Frideric.md",
-    "0. Bullet Journal/2024-2025 year/gap year.md",
     "0. Bullet Journal/2024-2025 year/02 - Feb/2025-02-15.md",
-    "0. Bullet Journal/2024-2025 year/02 - Feb/02 - Feb.md",
     "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
     "1. Rough Notes/MusicApp Idea.md",
     "3 - Literature Notes/Books/The Last Wish.md",
@@ -218,16 +226,8 @@
     "6 - Templates/Generic Metadata.md",
     "3 - Literature Notes/Books/Digital Zettelkasten.md",
     "3 - Literature Notes/Books/Charlie Munger BILLIONAIRE.md",
-    "1. Rough Notes/money summary.md",
-    "index.md",
-    "5 - Indexes/research.md",
     "1. Rough Notes/money summary.md.crdownload",
-    "4 - Permanent Notes/Options Trading.md",
     "3 - Literature Notes/Books/-Charlie Munger BILLIONAIRE.md.crdownload",
-    "7  - Archive/Submissions/Grad app.md",
-    "0. Bullet Journal/2024-2025 year/02 - Feb/2025-02-16.md",
-    "6 - Templates/year.md",
-    "6 - Templates/publish.md",
     "4 - Permanent Notes/Grace Chen Resume.pdf",
     "7  - Archive/Submissions/Masters Application reqs.md.crdownload",
     "7  - Archive/Submissions/Grad app.md.crdownload",

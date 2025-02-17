@@ -11,13 +11,13 @@ publish: false
 | 2.1  | [[Lecture 3 (Jan 13)]]  | Linear Algebra Review, basics (vectors, matrix, transf.) |          |
 | 2.2  | [[Lecture 4 (Jan 15)]]  | Rotation representations, quaternions                    |          |
 | 3    | [[Lecture 5 (Jan 22)]]  | Curves & Splines/Continuity                              | 3.1-3.20 |
-| 4.1  | Lecture 6 (Jan 27)      |                                                          |          |
+| 4.1  | [[Lecture 6 (Jan 27)]]  |                                                          | 3.21-    |
 | 4.2  | Lecture 7 (Jan 29)      |                                                          |          |
 | 5.1  | [[Lecture 8 (Feb 3)]]   | Particles & Visco-Elastic, ==Thermo, fluid==             | 5.1-5.16 |
 | 5.2  | [[Lecture 9 (Feb 5)]]   |                                                          | 5.16-    |
 | 6.1  | [[Lecture 10 (Feb 10)]] |                                                          |          |
 | 6.2  | [[Lecture 11 (Feb 12)]] |                                                          |          |
-| 7    | Midterm                 |                                                          |          |
+| 7    | [[Midterm]]             |                                                          |          |
 |      |                         |                                                          |          |
 Week 7 Wednesday Feb 19 - Midterm
 ## Readings 
