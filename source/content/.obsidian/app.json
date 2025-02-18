@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "newFileLocation": "current",
-  "newFileFolderPath": "4 - Permanent Notes/composers"
+  "newFileFolderPath": "4 - Permanent Notes/composers",
+  "attachmentFolderPath": "/"
 }

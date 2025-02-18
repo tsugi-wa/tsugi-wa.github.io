@@ -8,48 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d074e0911481888d",
+            "id": "a48340824c0c2e8a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
+                "file": "4 - Literature Notes/Courses/CS 174C/0verview.md",
                 "mode": "source",
                 "source": false
               },
-              "icon": "lucide-file",
-              "title": "Lecture 5 (Jan 22)"
+              "pinned": true
             }
           },
           {
-            "id": "bb8e1cb9346184a0",
+            "id": "b435c03596588390",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 6 (Jan 27).md",
+                "file": "5 - Permanent Notes/composers/Brahms, Johannes.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 6 (Jan 27)"
+              }
             }
           },
           {
-            "id": "520a1f637607d2ff",
+            "id": "b7c7b0ea723c7e01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Literature Notes/Courses/CS 174C/Midterm.md",
+                "file": "0. Bullet Journal/Zettelkasten Structure Reference.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Midterm"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,11 +65,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -81,15 +75,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tags",
+                "query": "tools",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -97,17 +89,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -123,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
+                "file": "0. Bullet Journal/Zettelkasten Structure Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +120,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 5 (Jan 22)"
+              }
             }
           },
           {
@@ -142,12 +129,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 3 (Jan 13).md",
+                "file": "0. Bullet Journal/Zettelkasten Structure Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Lecture 3 (Jan 13)"
+              }
             }
           },
           {
@@ -157,12 +142,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -171,17 +152,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Lecture 5 (Jan 22)"
+                "file": "0. Bullet Journal/Zettelkasten Structure Reference.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,50 +173,53 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.1\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d074e0911481888d",
+  "active": "b7c7b0ea723c7e01",
   "lastOpenFiles": [
-    "3 - Literature Notes/Courses/CS 174C/Lecture 6 (Jan 27).md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 5 (Jan 22).md",
-    "3 - Literature Notes/Courses/CS 174C/0verview.md",
-    "3 - Literature Notes/Courses/CS 174C/Lecture 4 (Jan 15).md",
-    "3 - Literature Notes/Courses/CS 174C/Midterm.md",
-    "0. Bullet Journal/2024-2025 year/02 - Feb/02 - Feb.md",
-    "4 - Permanent Notes/composers/Midterm.md",
+    "5 - Permanent Notes/composers/Brahms, Johannes.md",
+    "4 - Literature Notes/Courses/CS 174C/0verview.md",
+    "7  - Archive/Submissions/Audition rep.md",
+    "0. Bullet Journal/Zettelkasten Structure Reference.md",
     "index.md",
+    "0. Bullet Journal/2024-2025 year/02 - Feb/02 - Feb.md",
     "7  - Archive/NIer Automata.md",
-    "0. Bullet Journal/2024-2025 year/gap year.md",
-    "0. Bullet Journal/2024-2025 year/2024-2025.md",
-    "1. Rough Notes/old plans/index.md",
-    "1. Rough Notes/old plans/interview prep 2025.md",
-    "0. Bullet Journal/FIRE.md",
-    "4 - Permanent Notes/composers/Chopin, Frédéric.md",
-    "4 - Permanent Notes/composers/Handel, George Frideric.md",
-    "0. Bullet Journal/2024-2025 year/02 - Feb/2025-02-15.md",
-    "3 - Literature Notes/Courses/BTTAI Resume Workshop.md",
-    "1. Rough Notes/MusicApp Idea.md",
-    "3 - Literature Notes/Books/The Last Wish.md",
-    "7  - Archive/Submissions/Sprintership Essays.md",
-    "3 - Literature Notes/Pieces/Rachmaninoff Etudes-tableaux, Op. 39 No. 5.md",
-    "3 - Literature Notes/Pieces/Chopin Nocturne Op. 55 No. 2.md",
+    "7  - Archive/Unofficial Transcript til Spring 2024.pdf",
+    "7  - Archive/Excess Study List Petition Fall 2024.pdf",
+    "7  - Archive/Dream ITX build.md",
     "6 - Templates/Generic Metadata.md",
-    "3 - Literature Notes/Books/Digital Zettelkasten.md",
-    "3 - Literature Notes/Books/Charlie Munger BILLIONAIRE.md",
+    "5 - Permanent Notes/tools.md",
+    "5 - Permanent Notes/Shanghai.md",
+    "5 - Permanent Notes/Options Trading.md",
+    "5 - Permanent Notes/Japan.md",
+    "5 - Permanent Notes/Grace Chen Resume.pdf",
+    "5 - Permanent Notes/flour.md",
+    "5 - Permanent Notes/ferment.md",
+    "5 - Permanent Notes/assist.md",
+    "5 - Permanent Notes/composers/Weber, Carl Maria von.md",
+    "5 - Permanent Notes/composers/Tchaikovsky, Pyotr Ilyich.md",
+    "5 - Permanent Notes/composers/Shostakovich, Dmitri.md",
+    "5 - Permanent Notes/composers/Scriabin, Alexander.md",
+    "5 - Permanent Notes/composers/Schumann, Robert.md",
+    "5 - Permanent Notes/composers/Schubert, Franz.md",
+    "5 - Permanent Notes/composers/Schoenberg, Arnold.md",
+    "5 - Permanent Notes/composers/Scarlatti, Domenico.md",
+    "5 - Permanent Notes/composers/Satie, Erik.md",
+    "5 - Permanent Notes/composers/Ravel, Maurice.md",
+    "3 - Source Material/courses/Klein, Moses.pdf",
+    "3 - Source Material/images/Pasted image 20250217174858.png",
+    "3 - Source Material/images/6c63797cf6545a990de90de1ab4a8bf6_MD5.jpeg",
+    "3 - Source Material/images/71d650b934db2b0229030a887f257c8d_MD5.jpeg",
+    "Pasted image 20250217142706.png",
+    "3 - Source Material/images/a390f3821fbf014e8081d3a8ed81a8bc_MD5.jpeg",
+    "Pasted image 20250217140839.png",
+    "3 - Source Material/images/dce0c3924cf5f2462acbc13120636869_MD5.jpeg",
+    "Pasted image 20250217140522.png",
+    "3 - Source Material/images/8614046bf33a97fdd3fdddfd6175b8b6_MD5.jpeg",
+    "Pasted image 20250217140211.png",
     "1. Rough Notes/money summary.md.crdownload",
     "3 - Literature Notes/Books/-Charlie Munger BILLIONAIRE.md.crdownload",
-    "4 - Permanent Notes/Grace Chen Resume.pdf",
     "7  - Archive/Submissions/Masters Application reqs.md.crdownload",
     "7  - Archive/Submissions/Grad app.md.crdownload",
-    "2 - Source Material/images/72d5a15eea38425c328faf0bf9d43a1f_MD5.jpeg",
-    "2 - Source Material/images/99bdcbcd7953d7ae246ff03c7875103c_MD5.png",
-    "2 - Source Material/images/efa32dadc0c6c4f1a8be675317687571_MD5.png",
-    "2 - Source Material/images/edb7dcf921f4ae6aa0c2d46a4e3d2240_MD5.png",
-    "ecde98833264b688d8ef90ca5766778c_MD5.jpeg",
     "5 - Indexes/research2.md.crdownload",
-    "Pasted image 20250216132907.png",
-    "1. Rough Notes/old plans/NewGracePlan.md.crdownload",
-    "1. Rough Notes/old plans",
-    "1. Rough Notes/New folder",
-    "3 - Literature Notes/Pieces/what pieces to play_.md.crdownload",
-    "Pasted image 20250216120319.png"
+    "1. Rough Notes/old plans/NewGracePlan.md.crdownload"
   ]
 }
